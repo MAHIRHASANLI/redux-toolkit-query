@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Jeanne Padberg",
+      "id": 5
+    },
+    {
+      "name": "Richard Rowe",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 6,
+      "title": "Modern Wooden Bacon",
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "title": "Intelligent Granite Keyboard",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "photoId": 4,
+      "image": "https://loremflickr.com/150/150/abstract?lock=8213177139462144",
+      "id": 1
+    },
+    {
+      "photoId": 4,
+      "image": "https://loremflickr.com/150/150/abstract?lock=8721141399027712",
+      "id": 2
+    },
+    {
+      "photoId": 4,
+      "image": "https://loremflickr.com/150/150/abstract?lock=2521318201229312",
+      "id": 3
+    },
+    {
+      "photoId": 4,
+      "image": "https://loremflickr.com/150/150/abstract?lock=7208388215701504",
+      "id": 4
+    }
+  ]
+}
